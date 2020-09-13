@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+﻿## Welcome to My JavaScript Repository 
 
-You can use the [editor on GitHub](https://github.com/LianYiMing/javascript/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+这里专门放一些搭建个人博客时很好用的JS代码
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
