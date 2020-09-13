@@ -2,14 +2,14 @@
 
 这里专门放一些搭建个人博客时很好用的JS代码
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[我的博客]（https://www.lianyiming.com）
 
-### Markdown
+### JavaScript
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+JS是一个被广泛运用于网页开发中的脚本语言，通过它可以实现很多网页的效果，主要体现在网页的动画上，比如下学或者更换鼠标点击效果
 
-```markdown
-Syntax highlighted code block
+```JS基本语法
+
 
 # Header 1
 ## Header 2
