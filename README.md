@@ -2,7 +2,7 @@
 
 这里专门放一些搭建个人博客时很好用的JS代码
 
-[我的博客]（https://www.lianyiming.com）
+[我的博客](https://www.lianyiming.com)阔以康康
 
 ### JavaScript
 
