@@ -1,8 +1,10 @@
-var RENDERER = {
+<div id="jsi-flying-fish-container"></div>
+		<script>
+			var RENDERER = {
 	POINT_INTERVAL : 5,
-	FISH_COUNT : 0.1,
-	MAX_INTERVAL_COUNT : 5,
-	INIT_HEIGHT_RATE : 0.01,
+	FISH_COUNT : 3,
+	MAX_INTERVAL_COUNT : 50,
+	INIT_HEIGHT_RATE : 0.5,
 	THRESHOLD : 50,
 	
 	init : function(){
@@ -332,3 +334,4 @@ FISH.prototype = {
 $(function(){
 	RENDERER.init();
 });
+</script>
