@@ -45,7 +45,21 @@ https://www.webhek.com/
 
 开源地址：https://github.com/impress/impress.js
 
+2.Reveal.js
 
+> 简单易上手，支持markdown和html的幻灯片，相比于
+>
+> PowerPoint动画可以说吊打
+
+以前写的：http://www.lianyiming.com/Reveal.js/LianYiMing.html
+
+开源地址：https://github.com/hakimel/reveal.js
+
+> 由于有使用门槛——`如果你是个人站长那当然无所谓`
+>
+> 底下是几个感觉不戳的教程
+
+[少数派大佬——感觉是说的最清的](https://sspai.com/post/40657)
 
 #### 1.来自公众号的图片无法引用
 
