@@ -1,6 +1,6 @@
 ﻿## Welcome to My  Site Building Repository 
 
-### 建站御用工具在此
+### #建站御用工具在此
 
 > 这里专门放实用的HTMl+CSS+JS
 >
@@ -87,6 +87,8 @@ https://www.webhek.com/
 
 2.
 
+### `一些常见问题`
+
 #### 1.来自公众号的图片无法引用
 
 [解决此图片来自微信公众平台未经许可不可引用-百度经验](https://jingyan.baidu.com/article/6fb756ec74af3b241858fbf3.html)
@@ -98,3 +100,11 @@ https://www.webhek.com/
 1.[蓝灯 - 让人人都能访问开放的互联网](https://getlantern.org/zh_CN/)
 
 2.
+
+### `搜索引擎收录直达`
+
+1.[神马站长平台](https://zhanzhang.sm.cn/open/briefPage?order=1&view=0)
+
+2.[百度站长平台](https://ziyuan.baidu.com/property/)
+
+3.
