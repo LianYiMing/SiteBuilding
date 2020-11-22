@@ -1,8 +1,0 @@
-<!--<div id="postimg">
-</div>
-		.postimg {
-			width: 600;
-			height: 337;
-			border-radius: 100%;
-			border: 1px; 
-		}-->
