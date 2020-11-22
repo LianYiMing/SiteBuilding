@@ -4,13 +4,17 @@
 
 > 这里专门放实用的HTMl+CSS+JS
 >
-> 配图—和—字体详见另外俩仓库
+> #### **[#配图](https://github.com/LianYiMing/Pictures)——[#字体](https://github.com/LianYiMing/Fonts)**
+>
+> 详见另外俩仓库（超链接里）
 
 **Achieve**
 
 1.[我的博客](https://www.lianyiming.com)阔以康康
 
-2.[我的另一个博客](https://www.lym.cool)阔以康康
+2.[我的另一个博客](https://www.lym.cool)也阔以康康
+
+3.[My Github](https://github.com/LianYiMing)还阔以康康
 
 # `JavaScript`
 
