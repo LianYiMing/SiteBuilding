@@ -31,9 +31,29 @@
 
 ### `播放器`
 
-1.Aplayer
+1.Aplayer|Meting.js
 
+开源地址：
 
+Aplayer：https://github.com/MoePlayer/APlayer
+
+Meting.js：https://github.com/metowolf/MetingJS
+
+食用方法：
+
+https://blog.csdn.net/ywen_sama/article/details/88646741
+
+### `第三方网页统计`
+
+1.不蒜子
+
+> 无后端，只用插入JS可以直接在页脚引用它的访问人数
+
+http://busuanzi.ibruce.info/
+
+食用方法：
+
+http://ibruce.info/2015/04/04/busuanzi/
 
 ### `幻灯片`
 
