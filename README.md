@@ -123,7 +123,9 @@ https://www.ruanyifeng.com/blog/2019/12/github_actions.html
 
 https://github.com/marketplace?type=actions&query=Repositories+
 
-首先是创建token（来自GithubDos）
+[首先是创建token（来自GithubDos）](/md/token.md)
+
+PS：Github组织貌似能有token
 
 ### [创建令牌](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token#creating-a-token)
 
