@@ -107,6 +107,22 @@ https://www.webhek.com/
 
 2.
 
+**Gitaction**
+
+> Github自动化
+
+开源地址：https://github.com/features/actions
+
+食用方法：[GitHub Actions 入门教程 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)
+
+1.天气自动转发，挺有意思
+
+https://www.ruanyifeng.com/blog/2019/12/github_actions.html
+
+2.两个存储库之间同步
+
+https://github.com/marketplace?type=actions&query=Repositories+
+
 ### `一些常见问题`
 
 #### 1.来自公众号的图片无法引用
