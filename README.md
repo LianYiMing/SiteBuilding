@@ -156,6 +156,14 @@ PS：Github组织貌似能有token
 
 1.初学一定要学会对照实验找错误，用新页面试试
 
+2.一个问题没有解决又遇到了另一个问题
+对比难易，先解决简单的
+都难就一次一个，同时解决两个问题多线程反而效率低下
+
 `jekyll`
 
 1.nav显示了但是不下滑显示
+
+<nav class="navbar navbar-fixed-top xuhua" role="navigation" id="navcontainer">
+
+正常是好的，
