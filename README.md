@@ -150,3 +150,11 @@ PS：Github组织貌似能有token
 2.[百度站长平台](https://ziyuan.baidu.com/property/)
 
 3.
+
+### `实用技巧`
+
+1.初学一定要学会对照实验找错误，用新页面试试
+
+`jekyll`
+
+1.nav显示了但是不下滑显示
