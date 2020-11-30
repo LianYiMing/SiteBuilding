@@ -87,6 +87,9 @@ http://ibruce.info/2015/04/04/busuanzi/
 诞生于JavaScript的动画引擎Jquery的一个论坛
 
 https://www.jq22.com/
+1.打字机效果
+https://blog.csdn.net/sinat_33312523/article/details/72628958?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param
+2.
 
 # `CSS`
 
@@ -136,7 +139,9 @@ PS：Github组织貌似能有token
 
 [解决此图片来自微信公众平台未经许可不可引用-百度经验](https://jingyan.baidu.com/article/6fb756ec74af3b241858fbf3.html)
 
-2.
+2.favicon无法显示
+https://www.jianshu.com/p/a2364a3fa718
+3.
 
 ### `站长专用梯子`
 
@@ -150,7 +155,8 @@ PS：Github组织貌似能有token
 
 2.[百度站长平台](https://ziyuan.baidu.com/property/)
 
-3.
+3.[2020年10款最好用的免费VPN(在中国依然可用) - 墙外看](https://qiangwaikan.com/free/)
+4.
 
 ## `一点心得`
 
