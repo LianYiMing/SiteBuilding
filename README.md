@@ -226,3 +226,12 @@ https://cdn.jsdelivr.net/gh/LianYiMing/Fonts@v0.1/%E7%AD%91%E7%B4%ABa%E4%B8%B8%E
 
 甚至可以专门建一个github库来用cdn
 
+### `**进阶**`
+
+1.伪元素
+
+[理解:Before和:After伪元素 – WEB骇客](https://www.webhek.com/post/understanding-pseudo-element-before-and-after.html)
+
+### `**好论坛**`
+
+1.https://ruby-china.org/
