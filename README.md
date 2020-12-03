@@ -210,3 +210,4 @@ https://cdn.jsdelivr.net/gh/LianYiMing/Fonts@v0.1/%E7%AD%91%E7%B4%ABa%E4%B8%B8%E
 
 几秒就加载完了，极其快
 
+甚至可以专门建一个github库来用cdn
