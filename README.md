@@ -177,3 +177,36 @@ second-都难就一次一个
 -----比如给CSS按字母顺序排序
 
 精神好了再解决动脑问题
+
+**4.抽风的github**
+
+常见的错误就是
+
+```javascript
+GET https://www.lym.cool/js/Aplayer/player.js net::ERR_ABORTED 404
+```
+
+其实就是因为文件的大小写问题（url和src都要区分大小写）
+
+但改文件名后git查不出来，所以尽量修改src的链接
+
+不改src就删除后提交
+
+再ctrl+z还原再提交
+
+**5.CDN**
+
+1.牛逼的jdeliver
+
+https://www.jsdelivr.com/?docs=gh
+
+最快且免费的cdn，并且不需要注册，可以直接给github里某一个仓库的文件进行cdn化加速
+
+https://cdn.jsdelivr.net/gh/加上用户名/加上存储库@发布的版本号/文件名
+
+比如给20Mb的筑紫a丸字体做了个cdn（中文会自动转码）
+
+https://cdn.jsdelivr.net/gh/LianYiMing/Fonts@v0.1/%E7%AD%91%E7%B4%ABa%E4%B8%B8%EF%BC%88%E5%B7%B2%E8%BD%ACwoff%EF%BC%89.woff
+
+几秒就加载完了，极其快
+
