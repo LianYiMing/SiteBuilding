@@ -56,6 +56,14 @@ http://busuanzi.ibruce.info/
 
 http://ibruce.info/2015/04/04/busuanzi/
 
+### `网页通知`
+
+1.Webpush
+
+> 通过浏览器通知用户文章更新
+
+https://app.webpushr.com/dashboard/geo-report
+
 ### `幻灯片`
 
 1.impress.js
@@ -166,11 +174,13 @@ https://www.jianshu.com/p/a2364a3fa718
 
 2.https://www.cnblogs.com/winter-shadow/
 
-立体
+个人博客
 
 1.https://www.onyi.net/archives/
 
 2.https://yzyyz.top/
+
+3.https://www.iuiu.run/
 
 ### `一点心得`
 
@@ -208,9 +218,9 @@ GET https://www.lym.cool/js/Aplayer/player.js net::ERR_ABORTED 404
 
 再ctrl+z还原再提交
 
-**5.CDN**
+# `CDN`
 
-1.牛逼的jdeliver
+**1.牛逼的jdeliver**
 
 https://www.jsdelivr.com/?docs=gh
 
@@ -226,12 +236,18 @@ https://cdn.jsdelivr.net/gh/LianYiMing/Fonts@v0.1/%E7%AD%91%E7%B4%ABa%E4%B8%B8%E
 
 甚至可以专门建一个github库来用cdn
 
-### `**进阶**`
+**2.又拍云**
+
+看很多大佬都在用，算是国内不错的
+
+[又拍云JS库加速服务](http://jscdn.upai.com/)
+
+### `进阶`
 
 1.伪元素
 
 [理解:Before和:After伪元素 – WEB骇客](https://www.webhek.com/post/understanding-pseudo-element-before-and-after.html)
 
-### `**好论坛**`
+### `好论坛`
 
 1.https://ruby-china.org/
