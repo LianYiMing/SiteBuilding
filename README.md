@@ -44,6 +44,10 @@ Meting.js：https://github.com/metowolf/MetingJS
 
 https://blog.csdn.net/ywen_sama/article/details/88646741
 
+2.明月浩空音乐播放器
+
+https://myhkw.cn/
+
 ### `第三方网页统计`
 
 1.不蒜子
@@ -181,6 +185,12 @@ https://www.jianshu.com/p/a2364a3fa718
 2.https://yzyyz.top/
 
 3.https://www.iuiu.run/
+
+高仿github的UI
+
+http://www.telihai.com/
+
+
 
 ### `一点心得`
 
