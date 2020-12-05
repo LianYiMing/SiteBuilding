@@ -155,7 +155,7 @@ https://www.jianshu.com/p/a2364a3fa718
 
 1.[蓝灯 - 让人人都能访问开放的互联网](https://getlantern.org/zh_CN/)
 
-2.
+2.[墙外看  - 精品vpn推荐](https://qiangwaikan.com/)
 
 ### `搜索引擎收录直达`
 
