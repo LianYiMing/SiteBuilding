@@ -261,3 +261,7 @@ https://cdn.jsdelivr.net/gh/LianYiMing/Fonts@v0.1/%E7%AD%91%E7%B4%ABa%E4%B8%B8%E
 ### `好论坛`
 
 1.https://ruby-china.org/
+
+### 中共
+广电局媒体控制wiki
+https://zh.m.wikipedia.org/wiki/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E6%94%BF%E7%AD%96%E4%B8%8E%E7%A6%81%E4%BB%A4%E5%88%97%E8%A1%A8
