@@ -215,6 +215,8 @@ second-都难就一次一个
 **4.抽风的github**
 镜像1
 https://ghproxy.com/
+镜像2
+https://doc.fastgit.org/zh-cn/
 加速1
 https://niao.su/7/
 
