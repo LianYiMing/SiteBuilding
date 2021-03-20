@@ -213,6 +213,8 @@ second-都难就一次一个
 精神好了再解决动脑问题
 
 **4.抽风的github**
+镜像1
+https://ghproxy.com/
 
 常见的错误就是
 
