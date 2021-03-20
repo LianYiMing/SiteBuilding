@@ -215,6 +215,8 @@ second-都难就一次一个
 **4.抽风的github**
 镜像1
 https://ghproxy.com/
+加速1
+https://niao.su/7/
 
 常见的错误就是
 
